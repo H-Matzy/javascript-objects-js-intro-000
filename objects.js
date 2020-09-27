@@ -1,1 +1,1 @@
-var playlist = { ACDC: Thunderstruck};
+var playlist = { ACDC: 'Thunderstruck'};
