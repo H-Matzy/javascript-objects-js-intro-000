@@ -1,1 +1,1 @@
-var playlist = { artist: title};
+var playlist = { ACDC: Thunderstruck};
